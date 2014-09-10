@@ -2,7 +2,7 @@
 Contributors: dbmartin
 Tags: posts, columns, layout, magazine-style, newspaper-style, multi-column, pages
 Requires at least: 2.5.1
-Tested up to: 3.8
+Tested up to: 4.0
 Stable tag: 1.0
 License: GPLv2
 
