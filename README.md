@@ -1,4 +1,4 @@
-wp-columnize
+WP Columnize
 ============
 
 Easily create multiple columns within WordPress posts.
